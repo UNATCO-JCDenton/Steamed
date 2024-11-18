@@ -1,0 +1,19 @@
+[Desktop Entry]
+Name=Steamed
+Comment=Plasma theme to replicate Steam's 2003 theme, based on QTStep Classic
+
+X-KDE-PluginInfo-Author=BionicMan
+X-KDE-PluginInfo-Email=
+X-KDE-PluginInfo-Name=Steamed
+X-KDE-PluginInfo-Version=1.5
+X-KDE-PluginInfo-Website=
+X-KDE-PluginInfo-Category=Plasma Theme
+X-KDE-PluginInfo-Depends=KDE 5.8.6
+X-KDE-PluginInfo-License=GPLv3
+X-KDE-PluginInfo-EnabledByDefault=true
+
+[Wallpaper]
+defaultWallpaperTheme=pentagons
+defaultFileSuffix=.png
+defaultWidth=1920
+defaultHeight=1080
