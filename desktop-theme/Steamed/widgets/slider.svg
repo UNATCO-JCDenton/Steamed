@@ -25,11 +25,11 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.5"
      inkscape:pageshadow="2"
-     inkscape:cx="53.312498"
-     inkscape:cy="19.374999"
+     inkscape:cx="79.499995"
+     inkscape:cy="19.562499"
      inkscape:zoom="16.000001"
      inkscape:document-units="px"
-     inkscape:current-layer="layer1"
+     inkscape:current-layer="button-normal-topleft-9-6"
      showgrid="true"
      gridtolerance="10000"
      inkscape:grid-points="true"
@@ -399,16 +399,28 @@
        y="63.862175"
        inkscape:label="#rect4916" />
     <g
-       transform="translate(18.5,-942.13783)"
+       transform="matrix(0.5000095,0,0,1,26.999838,-942.13783)"
        inkscape:label="#g5544"
        id="horizontal-slider-handle">
       <g
          id="button-normal-topleft-9-6"
          transform="matrix(1.2874755,0,0,1.2874755,-8.749511,1016.7742)">
+        <g
+           id="button-normal-9-7"
+           inkscape:label="#button-normal-center"
+           transform="matrix(0.58659634,0,0,0.58723956,8.0948796,-18.90627)">
+          <rect
+             style="opacity:1;vector-effect:none;fill:#4e5744;fill-opacity:1;stroke:none;stroke-width:0.375;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;marker:none"
+             id="rect2289-5-7"
+             width="24"
+             height="24"
+             x="22"
+             y="-24" />
+        </g>
         <rect
-           style="opacity:1;vector-effect:none;fill:#7e8776;fill-opacity:1;stroke:none;stroke-width:0.5;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;marker:none"
+           style="opacity:1;vector-effect:none;fill:#7e8776;fill-opacity:1;stroke:none;stroke-width:0.707244;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;marker:none"
            id="rect2277-2-1"
-           width="1"
+           width="2.0007768"
            height="1"
            x="20"
            y="-34" />
@@ -435,61 +447,49 @@
            x="55"
            y="-34" />
         <rect
-           style="opacity:1;vector-effect:none;fill:#32392c;fill-opacity:1;stroke:none;stroke-width:0.5;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;marker:none"
+           style="opacity:1;vector-effect:none;fill:#32392c;fill-opacity:1;stroke:none;stroke-width:0.707244;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;marker:none"
            id="rect2283-26-0"
-           width="1"
+           width="2.0007768"
            height="1"
-           x="56"
+           x="55.067574"
            y="-34" />
       </g>
       <g
          id="button-normal-left-6-9"
          transform="matrix(1.2874755,0,0,0.69738252,-8.749511,991.02466)">
         <rect
-           style="opacity:1;vector-effect:none;fill:#7e8776;fill-opacity:1;stroke:none;stroke-width:0.433013;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;marker:none"
+           style="opacity:1;vector-effect:none;fill:#7e8776;fill-opacity:1;stroke:none;stroke-width:0.612492;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;marker:none"
            id="rect2287-4-1"
-           width="1"
+           width="2.0007768"
            height="24"
            x="20"
-           y="-24" />
-      </g>
-      <g
-         id="button-normal-9-7"
-         inkscape:label="#button-normal-center"
-         transform="matrix(0.75522842,0,0,0.75605654,1.672449,992.43284)">
-        <rect
-           style="opacity:1;vector-effect:none;fill:#4e5744;fill-opacity:1;stroke:none;stroke-width:0.375;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;marker:none"
-           id="rect2289-5-7"
-           width="24"
-           height="24"
-           x="22"
            y="-24" />
       </g>
       <g
          id="button-normal-right-0-1"
          transform="matrix(0.64169468,0,0,0.75285873,1.023008,992.35609)">
         <rect
-           style="opacity:1;vector-effect:none;fill:#32392c;fill-opacity:1;stroke:none;stroke-width:0.433013;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;marker:none"
+           style="opacity:1;vector-effect:none;fill:#32392c;fill-opacity:1;stroke:none;stroke-width:0.612492;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;marker:none"
            id="rect2291-4-1"
-           width="1"
+           width="2.0007768"
            height="24"
-           x="55"
+           x="53.135578"
            y="-24" />
         <rect
-           style="opacity:1;vector-effect:none;fill:#32392c;fill-opacity:1;stroke:none;stroke-width:0.433013;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;marker:none"
+           style="opacity:1;vector-effect:none;fill:#32392c;fill-opacity:1;stroke:none;stroke-width:0.612492;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;marker:none"
            id="rect2293-8-5"
-           width="1"
+           width="2.0007768"
            height="24"
-           x="56"
+           x="55.136356"
            y="-24" />
       </g>
       <g
          id="button-normal-bottomleft-7-9"
          transform="matrix(1.2874755,0,0,1.2874755,-8.749511,989.73719)">
         <rect
-           style="opacity:1;vector-effect:none;fill:#7e8776;fill-opacity:1;stroke:none;stroke-width:0.5;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;marker:none"
+           style="opacity:1;vector-effect:none;fill:#7e8776;fill-opacity:1;stroke:none;stroke-width:0.707244;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;marker:none"
            id="rect2295-1-7"
-           width="1"
+           width="2.0007768"
            height="1"
            x="20"
            y="1" />
