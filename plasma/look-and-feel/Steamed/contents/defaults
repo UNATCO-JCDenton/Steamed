@@ -1,0 +1,12 @@
+[kdeglobals][General]
+ColorScheme=Steamed
+
+[kdeglobals][KDE]
+widgetStyle=Windows
+
+[kwinrc][org.kde.kdecoration2]
+library=org.kde.kwin.aurorae
+theme=__aurorae__svg__Steamed
+
+[plasmarc][Theme]
+name=Steamed

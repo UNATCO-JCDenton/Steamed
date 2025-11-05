@@ -1,0 +1,27 @@
+{
+    "KPackageStructure": "Plasma/LookAndFeel",
+    "KPlugin": {
+        "Authors": [
+            {
+                "Email": "opendesktop.ignore696@passinbox.com",
+                "Name": "bionicman"
+            }
+        ],
+        "Category": "Plasma Look And Feel",
+        "Description": "A VGUI inspired Global Theme",
+        "EnabledByDefault": true,
+        "Id": "Steamed",
+        "License": "GPL-3.0+",
+        "Name": "Steamed",
+        "ServiceTypes": [
+            "Plasma/LookAndFeel"
+        ],
+        "Version": "0.1",
+        "Website": "https://github.com/UNATCO-JCDenton/Steamed"
+    },
+    "X-KPackage-Dependencies": [
+    "kns://aurorae.knsrc/api.kde-look.org/2225119",
+    "kns://colorschemes.knsrc/api.kde-look.org/2225118",
+    "kns://plasma-themes.knsrc/api.kde-look.org/2225120"
+    ]
+}
