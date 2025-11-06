@@ -10,3 +10,4 @@ X-KDE-PluginInfo-Name=Steamed
 X-KDE-PluginInfo-Version=0.1
 X-KDE-PluginInfo-Website=https://github.com/UNATCO-JCDenton/Steamed
 X-KDE-ServiceTypes=Plasma/LookAndFeel
+X-KPackage-Dependencies=kns://aurorae.knsrc/api.kde-look.org/2225119,kns://colorschemes.knsrc/api.kde-look.org/2225118,kns://plasma-themes.knsrc/api.kde-look.org/2225120,kns://sddmtheme.knsrc/api.kde-look.org/2328125

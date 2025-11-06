@@ -10,3 +10,6 @@ theme=__aurorae__svg__Steamed
 
 [plasmarc][Theme]
 name=Steamed
+
+[kcminputrc][Mouse]
+cursorTheme=KDE_Classic
