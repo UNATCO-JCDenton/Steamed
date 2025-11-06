@@ -7,7 +7,7 @@
    viewBox="0 0 32 32.000001"
    version="1.1"
    id="svg17788"
-   inkscape:version="1.4 (e7c3feb100, 2024-10-09)"
+   inkscape:version="1.4.2 (ebf0e940d0, 2025-05-08)"
    sodipodi:docname="background.svg"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
@@ -26,9 +26,14 @@
      showgrid="false"
      shape-rendering="crispEdges"
      inkscape:zoom="4.5041528"
-     inkscape:cx="43.404389"
-     inkscape:cy="60.277706"
-     inkscape:current-layer="layer1" />
+     inkscape:cx="43.515398"
+     inkscape:cy="60.166698"
+     inkscape:current-layer="layer1"
+     inkscape:window-width="3840"
+     inkscape:window-height="1061"
+     inkscape:window-x="0"
+     inkscape:window-y="0"
+     inkscape:window-maximized="1" />
   <defs
      id="defs17785" />
   <g
@@ -37,7 +42,7 @@
      id="layer1"
      transform="translate(-137.14752,-360.96524)">
     <rect
-       style="fill:#3d719d;fill-opacity:1;stroke:none;stroke-width:0.541402"
+       style="fill:#4c5844;fill-opacity:1;stroke:none;stroke-width:0.541402"
        id="rect1766"
        width="32"
        height="32"
