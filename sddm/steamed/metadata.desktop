@@ -1,0 +1,17 @@
+[SddmGreeterTheme]
+Name=Steamed
+Description=A VGUI inspired login screen modified from phob1an's Reactionary KDE1.
+Author=bionicman
+Copyright=
+License=GPLv3
+Type=sddm-theme
+Version=1.0
+Website=https://github.com/UNATCO-JCDenton/Steamed
+Screenshot=preview.png
+MainScript=Main.qml
+ConfigFile=theme.conf
+TranslationsDirectory=translations
+Email=opendesktop.ignore696@passinbox.com
+Theme-Id=steamed
+Theme-API=2.0
+QtVersion=6

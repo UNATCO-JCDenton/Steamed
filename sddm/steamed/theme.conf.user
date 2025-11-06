@@ -1,0 +1,4 @@
+[General]
+background=background.svg
+showClock=true
+type=image
