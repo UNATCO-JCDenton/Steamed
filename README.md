@@ -1,7 +1,7 @@
 # Steamed
 
 A global theme for KDE Plasma designed to give the appearance of Steam's 2003 version, Half-Life's VGUI scheme, or Counter-Strike 1.6's VGUI theme (they're all the same thing).  
-These were all created for my personal use but I figure there's probably someone else out there who might also want to use it.
+These were all created for my personal use but I figure there's probably someone else out there who might also want to use it. The commit history is going to be awful because I keep forgetting to pull after changing things on the Github website.
 ## Screenshots
 ![Global Theme](plasma/look-and-feel/Steamed/contents/previews/fullscreenpreview.jpg)
 ![SDDM Theme](sddm/steamed/preview.png)
